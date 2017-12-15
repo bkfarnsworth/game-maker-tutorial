@@ -2072,25 +2072,6 @@
             }
         },
         {
-            "Key": "a1f0408c-ac66-455f-bcbd-08fcacb982d0",
-            "Value": {
-                "id": "3a94b4fb-ba1b-45f3-aa4b-9c487db26fc4",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/o_porcupine\/o_porcupine.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "a21afc08-ac1f-4b19-9aa1-ee08e77b2580",
             "Value": {
                 "id": "37f4afb6-38d6-494b-ab73-fca892f2421d",
@@ -2487,25 +2468,6 @@
                 ],
                 "resourcePath": "sprites\/s_medium_shadow\/s_medium_shadow.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "e29845f9-bec4-401e-a9a6-8580f7f23d20",
-            "Value": {
-                "id": "a8b3cdae-62e3-4e91-9c21-c8e04b6e728c",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/o_hornet\/o_hornet.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -2923,25 +2885,6 @@
                     "default"
                 ],
                 "resourcePath": "objects\/o_solid\/o_solid.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "fe08ec27-cf11-412c-895f-2bdd01c5eaab",
-            "Value": {
-                "id": "a6b18ac4-64e0-48bd-a270-8b1e065c1746",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/o_bat\/o_bat.yy",
                 "resourceType": "GMObject"
             }
         },

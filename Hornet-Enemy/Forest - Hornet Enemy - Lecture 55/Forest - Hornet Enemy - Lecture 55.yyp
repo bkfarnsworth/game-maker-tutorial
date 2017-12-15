@@ -1008,6 +1008,25 @@
             }
         },
         {
+            "Key": "46b081ae-ee59-4926-a1d2-fefbface3cde",
+            "Value": {
+                "id": "0ff994ea-198e-4573-bd88-cd18b00a37c7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/blueberry\/blueberry.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "487fe8c6-3475-4d68-9b8d-db4fcc44d241",
             "Value": {
                 "id": "a424b89c-71d9-4bdb-b2be-9e853e5d2045",
@@ -2733,6 +2752,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/s_player_run_right\/s_player_run_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f382772e-2b25-4b79-8d2e-85de592a745a",
+            "Value": {
+                "id": "46357277-79d4-4524-9fc7-7642bce33adf",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprite50\/sprite50.yy",
                 "resourceType": "GMSprite"
             }
         },

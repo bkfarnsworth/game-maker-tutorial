@@ -11,7 +11,9 @@
         "718ff517-a2b1-4de4-b66c-fb5d49ead5df",
         "d8e49bd4-29b6-4659-b822-448efccdac1a",
         "6420a743-76b5-4c2a-a00c-d2325ae07e7f",
-        "b08e1684-3006-4fde-b5a1-c9c6067cd53a"
+        "b08e1684-3006-4fde-b5a1-c9c6067cd53a",
+        "50755e63-3438-4a66-b23e-203119471a2c",
+        "342b353e-ba13-48d6-bc9d-bc5fe6cf22c4"
     ],
     "filterType": "GMScript",
     "folderName": "Networking Scripts",

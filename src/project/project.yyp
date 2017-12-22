@@ -761,6 +761,25 @@
             }
         },
         {
+            "Key": "342b353e-ba13-48d6-bc9d-bc5fe6cf22c4",
+            "Value": {
+                "id": "0c223a01-e2fc-436c-80fa-0edd8690d024",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/handle_chat\/handle_chat.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "34dc0678-7446-4ccf-8ec1-bcbd1fb48bed",
             "Value": {
                 "id": "76992d58-e5db-4341-a0a6-2402fef220e1",
@@ -1176,6 +1195,25 @@
                 ],
                 "resourcePath": "objects\/o_start_position\/o_start_position.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "50755e63-3438-4a66-b23e-203119471a2c",
+            "Value": {
+                "id": "478a1370-49c4-4270-9b59-4a3c67b8fd48",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/handle_connected\/handle_connected.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -3073,7 +3111,9 @@
         "718ff517-a2b1-4de4-b66c-fb5d49ead5df",
         "d8e49bd4-29b6-4659-b822-448efccdac1a",
         "6420a743-76b5-4c2a-a00c-d2325ae07e7f",
-        "b08e1684-3006-4fde-b5a1-c9c6067cd53a"
+        "b08e1684-3006-4fde-b5a1-c9c6067cd53a",
+        "50755e63-3438-4a66-b23e-203119471a2c",
+        "342b353e-ba13-48d6-bc9d-bc5fe6cf22c4"
     ],
     "tutorial": ""
 }
